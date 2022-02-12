@@ -1,3 +1,7 @@
 *{
     background-color: hsl(219, 100%, 50%);
 }
+p:hover{
+    background-color: aqua;
+
+}
